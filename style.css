@@ -13,7 +13,6 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 }
 .tarefas{
-    border: 1px solid blue;
     height: 70vh;
     display: flex;
     flex-direction: column;
@@ -33,12 +32,10 @@ body{
     color: white;
 }
 .textoTarefas{
-    border: 1px solid red;
     width: 100%;
     height: 20px;
 }
 .btExcluirTarefa{
-    border: 1px solid green;
     height: 20px;
 }
 .conteudoTarefas{
